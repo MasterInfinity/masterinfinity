@@ -4,6 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的灵质空间&center=true&size=27">
   </a>
 </h1>
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://space.bilibili.com/448488855/">
+    <img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4">
+  </a>&emsp;
+<!-- 贪吃蛇代码贡献图 -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/masterinfinity/masterinfinity/contribution-snake/github-contribution-grid-snake.svg" />
+  </div>
+</div>
 
 💪 正在学习: 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
