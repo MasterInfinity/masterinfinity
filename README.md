@@ -6,7 +6,7 @@
 </h1>
 
 💪 正在学习: 
-[C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 🎓 技术栈：
 ![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)
